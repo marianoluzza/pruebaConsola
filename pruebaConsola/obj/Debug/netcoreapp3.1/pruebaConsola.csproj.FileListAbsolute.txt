@@ -1,0 +1,13 @@
+E:\Mis Docs\GitHub\pruebaConsola\pruebaConsola\bin\Debug\netcoreapp3.1\pruebaConsola.exe
+E:\Mis Docs\GitHub\pruebaConsola\pruebaConsola\bin\Debug\netcoreapp3.1\pruebaConsola.deps.json
+E:\Mis Docs\GitHub\pruebaConsola\pruebaConsola\bin\Debug\netcoreapp3.1\pruebaConsola.runtimeconfig.json
+E:\Mis Docs\GitHub\pruebaConsola\pruebaConsola\bin\Debug\netcoreapp3.1\pruebaConsola.runtimeconfig.dev.json
+E:\Mis Docs\GitHub\pruebaConsola\pruebaConsola\bin\Debug\netcoreapp3.1\pruebaConsola.dll
+E:\Mis Docs\GitHub\pruebaConsola\pruebaConsola\bin\Debug\netcoreapp3.1\pruebaConsola.pdb
+E:\Mis Docs\GitHub\pruebaConsola\pruebaConsola\obj\Debug\netcoreapp3.1\pruebaConsola.csprojAssemblyReference.cache
+E:\Mis Docs\GitHub\pruebaConsola\pruebaConsola\obj\Debug\netcoreapp3.1\pruebaConsola.AssemblyInfoInputs.cache
+E:\Mis Docs\GitHub\pruebaConsola\pruebaConsola\obj\Debug\netcoreapp3.1\pruebaConsola.AssemblyInfo.cs
+E:\Mis Docs\GitHub\pruebaConsola\pruebaConsola\obj\Debug\netcoreapp3.1\pruebaConsola.csproj.CoreCompileInputs.cache
+E:\Mis Docs\GitHub\pruebaConsola\pruebaConsola\obj\Debug\netcoreapp3.1\pruebaConsola.dll
+E:\Mis Docs\GitHub\pruebaConsola\pruebaConsola\obj\Debug\netcoreapp3.1\pruebaConsola.pdb
+E:\Mis Docs\GitHub\pruebaConsola\pruebaConsola\obj\Debug\netcoreapp3.1\pruebaConsola.genruntimeconfig.cache
